@@ -1,0 +1,17 @@
+a.ilc_link_ExtLink
+{
+	background-image:linear-gradient(transparent,transparent),url("images/Icon_External_Link.png");
+	background-repeat:no-repeat;
+	background-position:center, right;
+	padding-right:13px;
+}
+
+a.ilc_link_ExtLink:hover
+{
+	
+}
+
+a.ilc_link_ExtLink:visited
+{
+	
+}
